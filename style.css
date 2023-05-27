@@ -1,0 +1,21 @@
+body{
+    background:black;
+}
+#daenerys{
+    border: 5px solid white;
+    width: 100%;
+
+}
+h1{
+    text-transform: uppercase;
+
+}
+div{
+border:10px black solid;
+margin-left: 25%;
+width: 50%;
+margin-top: 100px;
+color:white;
+ text-align: center;
+    font: "Libre Baskerville", serif;
+}
